@@ -1,16 +1,29 @@
-# test
+## Mobile Active Protection: package monitor
 
-A new Flutter project.
+This is a UI/UX Android project developed for AUT COMP826 Mobile System Development.
 
-## Getting Started
+Adobe XD Folder contains all .pngs of the project.
 
-This project is a starting point for a Flutter application.
+<img src="/Users/chenweizuo/Library/Application Support/typora-user-images/image-20221027225644570.png" alt="image-20221027225644570" style="zoom:50%;" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to compile
+
+1. [Install Flutter](https://docs.flutter.dev/get-started/install?gclid=CjwKCAjw2OiaBhBSEiwAh2ZSPy-7FRO1JDsvMpji_wAtIa0PKnMvXGHK1uwMv0Ul0Roccrgi0jaaXBoCfcQQAvD_BwE&gclsrc=aw.ds) and Follow all tutorial 
+
+2. [Install Android studio](https://developer.android.com/studio?gclid=CjwKCAjw2OiaBhBSEiwAh2ZSP7tMLIlJxZR0uZ-Mln5vzsSx-TmNYYYtcfA_r5kRRwJ33na90xDgJRoC5cQQAvD_BwE&gclsrc=aw.ds)
+
+3. Open project in Android studio
+
+4. Open a Google Pixel6 Emulator in Android studio
+
+5. Type commands in terminal
+
+   ~~~ 
+   cd project_address(yours)
+   flutter run
+   ~~~
+
+6. Ok, all things done
+
