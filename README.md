@@ -4,7 +4,7 @@ This is a UI/UX Android project developed for AUT COMP826 Mobile System Developm
 
 Adobe XD Folder contains all .pngs of the project.
 
-<img src="/Users/chenweizuo/Library/Application Support/typora-user-images/image-20221027225644570.png" alt="image-20221027225644570" style="zoom:50%;" />
+<img width="638" alt="image" src="https://user-images.githubusercontent.com/66978533/198255829-670a181b-a12b-49d0-9f2c-110a193415fd.png">
 
 
 
