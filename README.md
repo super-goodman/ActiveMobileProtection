@@ -24,6 +24,6 @@ Adobe XD Folder contains all .pngs of the project.
    cd project_address(yours)
    flutter run
    ~~~
-6. wait for the project to run
+6. Wait for the project to run
 7. Ok, all things done
 
