@@ -102,7 +102,7 @@ class GooglePixel67 extends StatelessWidget {
             ),
           ),
           Pinned.fromPins(
-            Pin(size: 90.0, end: 267.0),
+            Pin(size: 84.0, end: 273.0),
             Pin(start: 57.8, end: 709.2),
             child: PageLink(
               links: [
@@ -114,7 +114,7 @@ class GooglePixel67 extends StatelessWidget {
                 ),
               ],
               child: Text(
-                'Personal',
+                'Persona',
                 style: TextStyle(
                   fontFamily: 'Lato-Regular',
                   fontSize: 24,
@@ -240,34 +240,34 @@ class GooglePixel67 extends StatelessWidget {
             ),
           ),
           Align(
-            alignment: Alignment(-0.165, -0.395),
+            alignment: Alignment(-0.165, -0.318),
             child: SizedBox(
               width: 38.0,
               height: 22.0,
               child: SvgPicture.string(
-                _svg_h9ccmi,
+                _svg_vemu,
                 allowDrawingOutsideViewBox: true,
               ),
             ),
           ),
           Align(
-            alignment: Alignment(-0.024, -0.377),
+            alignment: Alignment(-0.024, -0.297),
             child: SizedBox(
               width: 1.0,
               height: 43.0,
               child: SvgPicture.string(
-                _svg_k9gig5,
+                _svg_v2nkwx,
                 allowDrawingOutsideViewBox: true,
               ),
             ),
           ),
           Align(
-            alignment: Alignment(0.11, -0.394),
+            alignment: Alignment(0.11, -0.316),
             child: SizedBox(
               width: 39.0,
               height: 22.0,
               child: SvgPicture.string(
-                _svg_dk9cm,
+                _svg_lelr8w,
                 allowDrawingOutsideViewBox: true,
               ),
             ),
@@ -305,11 +305,11 @@ const String _svg_kttd2l =
     '<svg viewBox="286.1 515.0 125.9 27.9" ><path transform="translate(-2102.02, -268.96)" d="M 2452.37060546875 785.8140869140625 C 2487.140625 789.6026000976562 2514.736328125 798.1043090820312 2514.007080078125 804.8031005859375 C 2513.278076171875 811.5017700195312 2484.50048828125 813.8609008789062 2449.73046875 810.0722045898438 C 2414.960693359375 806.28369140625 2387.364990234375 797.7819213867188 2388.093994140625 791.0831909179688 C 2388.822998046875 784.384521484375 2417.600830078125 782.025390625 2452.37060546875 785.8140869140625 Z" fill="#3c3e56" stroke="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="butt" /></svg>';
 const String _svg_wvlsr6 =
     '<svg viewBox="234.2 532.0 125.9 27.9" ><path transform="translate(-2078.8, -273.09)" d="M 2377.269287109375 806.9274291992188 C 2412.0390625 810.7161254882812 2439.634765625 819.2177734375 2438.905517578125 825.91650390625 C 2438.176513671875 832.6152954101562 2409.39892578125 834.9743041992188 2374.62890625 831.1856079101562 C 2339.859130859375 827.3969116210938 2312.263427734375 818.8953857421875 2312.992431640625 812.1967163085938 C 2313.7216796875 805.4979248046875 2342.499267578125 803.138916015625 2377.269287109375 806.9274291992188 Z" fill="#3c3e56" stroke="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="butt" /></svg>';
-const String _svg_h9ccmi =
-    '<svg viewBox="156.1 234.0 38.0 22.0" ><path transform="translate(156.09, 234.01)" d="M 38 0 L 0 22" fill="none" stroke="#707070" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" /></svg>';
-const String _svg_k9gig5 =
-    '<svg viewBox="200.5 234.5 1.0 43.0" ><path transform="translate(200.54, 234.51)" d="M 0 0 L 0 43" fill="none" stroke="#707070" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" /></svg>';
-const String _svg_dk9cm =
-    '<svg viewBox="207.0 234.5 39.0 22.0" ><path transform="translate(207.0, 234.51)" d="M 0 0 L 39 22" fill="none" stroke="#707070" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" /></svg>';
+const String _svg_vemu =
+    '<svg viewBox="156.1 264.0 38.0 22.0" ><path transform="translate(156.09, 264.01)" d="M 38 0 L 0 22" fill="none" stroke="#707070" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" /></svg>';
+const String _svg_v2nkwx =
+    '<svg viewBox="200.5 264.5 1.0 43.0" ><path transform="translate(200.54, 264.51)" d="M 0 0 L 0 43" fill="none" stroke="#707070" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" /></svg>';
+const String _svg_lelr8w =
+    '<svg viewBox="207.0 264.5 39.0 22.0" ><path transform="translate(207.0, 264.51)" d="M 0 0 L 39 22" fill="none" stroke="#707070" stroke-width="1" stroke-miterlimit="4" stroke-linecap="butt" /></svg>';
 const String _svg_t1w59s =
     '<svg viewBox="25.8 61.8 16.0 21.0" ><path transform="matrix(-1.0, 0.0, 0.0, -1.0, 42.83, 52.75)" d="M 0.9999000430107117 -11.35710048675537 L 11.6496000289917 -19.4994010925293 L 0.9999000430107117 -27.64170074462891 L 3.265200138092041 -29.99970054626465 L 17.00010108947754 -19.4994010925293 L 3.265200138092041 -9 L 0.9999000430107117 -11.35710048675537 Z" fill="#33bafe" stroke="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="butt" /></svg>';

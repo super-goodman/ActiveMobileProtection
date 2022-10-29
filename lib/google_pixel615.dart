@@ -51,7 +51,7 @@ class GooglePixel615 extends StatelessWidget {
             ),
           ),
           Align(
-            alignment: Alignment(-0.108, -0.401),
+            alignment: Alignment(-0.108, -0.412),
             child: SizedBox(
               width: 226.0,
               height: 108.0,

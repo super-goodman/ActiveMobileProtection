@@ -275,7 +275,7 @@ class GooglePixel64 extends StatelessWidget {
             ),
           ),
           Pinned.fromPins(
-            Pin(start: 45.3, end: 24.7),
+            Pin(size: 306.0, end: 42.7),
             Pin(size: 88.0, middle: 0.309),
             child: Text.rich(
               TextSpan(
@@ -290,7 +290,7 @@ class GooglePixel64 extends StatelessWidget {
                     text: 'Your phone ',
                   ),
                   TextSpan(
-                    text: '\nMaybe in dangerous  ',
+                    text: '\nMaybe in danger    ',
                   ),
                 ],
               ),
@@ -360,7 +360,7 @@ class GooglePixel64 extends StatelessWidget {
             ),
           ),
           Align(
-            alignment: Alignment(-0.018, 0.795),
+            alignment: Alignment(-0.018, 0.798),
             child: SizedBox(
               width: 84.0,
               height: 44.0,

@@ -113,7 +113,7 @@ class GooglePixel69 extends StatelessWidget {
             ),
           ),
           Align(
-            alignment: Alignment(-0.02, 0.795),
+            alignment: Alignment(-0.02, 0.798),
             child: SizedBox(
               width: 118.0,
               height: 44.0,

@@ -229,36 +229,14 @@ class GooglePixel66 extends StatelessWidget {
             ),
           ),
           Pinned.fromPins(
-            Pin(size: 16.0, start: 23.0),
-            Pin(start: 55.8, end: 719.2),
-            child: Transform.rotate(
-              angle: 3.1416,
-              child:
-                  // Adobe XD layer: 'Oggetto vettoriale …' (group)
-                  PageLink(
-                links: [
-                  PageLinkInfo(
-                    transition: LinkTransition.Fade,
-                    ease: Curves.easeOut,
-                    duration: 0.3,
-                    pageBuilder: () => GooglePixel65(),
-                  ),
-                ],
-                child: Stack(
-                  children: <Widget>[
-                    Stack(
-                      children: <Widget>[
-                        SizedBox.expand(
-                            child: SvgPicture.string(
-                          _svg_lkofht,
-                          allowDrawingOutsideViewBox: true,
-                          fit: BoxFit.fill,
-                        )),
-                      ],
-                    ),
-                  ],
-                ),
-              ),
+            Pin(size: 16.0, start: 16.0),
+            Pin(size: 21.0, start: 54.8),
+            child:
+                // Adobe XD layer: 'Color Overlay' (shape)
+                SvgPicture.string(
+              _svg_qb15c0,
+              allowDrawingOutsideViewBox: true,
+              fit: BoxFit.fill,
             ),
           ),
         ],
@@ -271,5 +249,5 @@ const String _svg_ofzay =
     '<svg viewBox="0.0 0.0 14.0 12.0" ><path transform="translate(-377.87, -482.19)" d="M 380.2038879394531 494.1877746582031 L 384.8704833984375 490.1858825683594 L 389.5370788574219 494.1850280761719 L 391.8705139160156 492.1854553222656 L 387.2038879394531 488.1864318847656 L 391.8705139160156 484.1873779296875 L 389.5370788574219 482.187744140625 L 384.8704833984375 486.1868286132812 L 380.2038879394531 482.187744140625 L 377.8704833984375 484.1873779296875 L 382.537109375 488.1878356933594 L 377.8704833984375 492.1882934570312 L 380.2038879394531 494.1877746582031 Z" fill="#1d1d1b" stroke="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="butt" /></svg>';
 const String _svg_nntlci =
     '<svg viewBox="0.0 0.0 14.0 12.0" ><path transform="translate(0.0, 0.0)" d="M 0 10.0008544921875 L 4.66650390625 6.000244140625 L 0 1.999755859375 L 2.332763671875 0 L 6.999267578125 3.9996337890625 L 11.666748046875 0 L 13.99951171875 1.999755859375 L 9.3330078125 5.9993896484375 L 13.99951171875 9.998046875 L 11.666748046875 11.9979248046875 L 6.999267578125 7.998291015625 L 2.332763671875 12.0006103515625 L 0 10.0008544921875 Z" fill="#ffffff" stroke="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="butt" /></svg>';
-const String _svg_lkofht =
-    '<svg viewBox="0.0 0.0 16.0 21.0" ><path  d="M 2.26531982421875 0 L 16 10.50006103515625 L 2.26531982421875 21 L 0 18.64239501953125 L 10.64956665039062 10.50006103515625 L 0 2.357666015625 L 2.26531982421875 0 L 2.26531982421875 0 Z" fill="#33bafe" stroke="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="butt" /></svg>';
+const String _svg_qb15c0 =
+    '<svg viewBox="16.0 54.8 16.0 21.0" ><path transform="matrix(-1.0, 0.0, 0.0, -1.0, 31.97, 75.75)" d="M 0 18.64260101318359 L 10.64970016479492 10.50030040740967 L 0 2.358000040054321 L 2.265300035476685 0 L 16.00020027160645 10.50030040740967 L 2.265300035476685 20.99970054626465 L 0 18.64260101318359 Z" fill="#33bafe" stroke="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="butt" /></svg>';

@@ -527,7 +527,7 @@ class GooglePixel68 extends StatelessWidget {
             ),
           ),
           Pinned.fromPins(
-            Pin(size: 90.0, start: 22.0),
+            Pin(size: 91.0, start: 22.0),
             Pin(size: 29.0, middle: 0.5474),
             child: PageLink(
               links: [
@@ -539,7 +539,7 @@ class GooglePixel68 extends StatelessWidget {
                 ),
               ],
               child: Text(
-                'Personal',
+                'Persona ',
                 style: TextStyle(
                   fontFamily: 'Lato-Regular',
                   fontSize: 24,

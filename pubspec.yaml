@@ -69,6 +69,7 @@ flutter:
     - assets/images/rettangolo_red.png
     - assets/images/rettangolo_blue.png
     - assets/images/rettangolo_purpel.png
+    - assets/images/launch_image.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
